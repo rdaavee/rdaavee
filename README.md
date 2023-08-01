@@ -15,7 +15,7 @@ I am an aspiring <strong>Full-Stack Web Developer</strong>/<strong>Software Engi
 ### Current Status :
 
  👦🏻 Student <br>
- 🔍 I’m looking for mentor in <strong>Web Development</strong> and work from home <br>
+ 🔍 I’m looking for mentor in <strong>Web Development</strong> <br>
 
 ------------------------------------------- 
 
