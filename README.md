@@ -1,5 +1,5 @@
-### Hi 🙋🏻‍♂️, I'm Ranier <br>
-I am an aspiring <strong>Full-Stack Web Developer</strong>/<strong>Software Engineer</strong>.
+[![RANIER DAVE ARCEGA](https://github.com/Rdavee/Rdavee/assets/141089345/265df703-7914-47d9-b54c-98fbbaff800e)
+](https://facebook.com/rdaavee)
 
 ------------------------------------------- 
 ### How to reach me: 
