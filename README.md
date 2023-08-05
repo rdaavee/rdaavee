@@ -34,7 +34,7 @@
 [//]: <> (Credits: carlcastanas)
 [//]: <> (Credits: Last edited on: 01/12/23)
 
-### 💻 Frameworks and library
+### 💻 Framework and library
 
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
