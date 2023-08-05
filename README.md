@@ -5,6 +5,8 @@
 <a href="mailto: rdavee0412@gmail.com">
 <img src="https://img.shields.io/badge/-rdavee0412%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
+-------------------------------------------
+
 ### 🌐 Socials 
 <a href="https://www.linkedin.com/Rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -13,6 +15,7 @@
 <a href="https://www.facebook.com/rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
+-------------------------------------------
 
 ### 🟢 Current Status 
 
@@ -24,6 +27,8 @@
 ### 👨🏻‍💻 Programming Languages ​
 
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+-------------------------------------------
 
 [//]: <> (Credits: Sir Carl Castanas layout)
 [//]: <> (Credits: carlcastanas)
