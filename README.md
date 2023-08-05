@@ -6,9 +6,12 @@
 <img src="https://img.shields.io/badge/-rdavee0412%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### Socials :
-<a href="https://www.linkedin.com/in/Rdaavee/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
-<a href="https://www.facebook.com/rdaavee/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <br>
-<a href="https://instagram.com/rdaavee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/Rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.facebook.com/rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp;
 
 
 ### Current Status :
