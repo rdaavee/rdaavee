@@ -20,7 +20,7 @@
 ### 🟢 Current Status 
 
  👦🏻 Student <br>
- 🔍 I’m looking for mentor in <strong>Web Development</strong> <br>
+ 🔍 I’m looking for a mentor in <strong>Web Development</strong> <br>
 
 ------------------------------------------- 
 
