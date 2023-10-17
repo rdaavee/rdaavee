@@ -19,8 +19,7 @@
 
 ### 🟢 Current Status 
 
- 👦🏻 Student <br>
- 🔍 I’m looking for a mentor in <strong>Web Development</strong> <br>
+ 👦🏻 I'm currently learning Tailwind, React, and API.
 
 ------------------------------------------- 
 
@@ -36,7 +35,6 @@
 
 ### 💻 Framework and library
 
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 
 ------------------------------------------- 
