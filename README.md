@@ -7,37 +7,12 @@
 
 ------------------------------------------
 
-### 🌐 Socials 
-<a href="https://www.linkedin.com/Rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/rdaavee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
-
-------------------------------------------
-
 ### 🟢 Current Status 
 
  👦🏻 I'm currently learning Tailwind, React, and API.
 
 ------------------------------------------- 
 
-### 👨🏻‍💻 Programming Languages ​
-
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
--------------------------------------------
-
-[//]: <> (Credits: Sir Carl Castanas layout)
-[//]: <> (Credits: carlcastanas)
-[//]: <> (Credits: Last edited on: 01/12/23)
-
-### 💻 Framework and library
-
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-
-------------------------------------------- 
 
 ### Profile Visits :
 ![Visitor Count](https://profile-counter.glitch.me/{Rdavee}/count.svg)
