@@ -9,9 +9,9 @@
 
 ------------------------------------------
 
-### 🟢 Current Status 
+### 🟢 About me
 
- 👦🏻 I'm currently learning Tailwind, React, and API.
+ 👦🏻 Student
 
 ------------------------------------------- 
 
