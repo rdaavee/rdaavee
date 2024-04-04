@@ -22,24 +22,16 @@
 
 -------------------------------------------
 
-<div>
-<a href="https://github.com/rdaavee">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaavee&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdaavee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
--------------------------------------------
 
 ## 🌐 | Social Media
 
 <a href="https://www.linkedin.com/in/rdavee/">
-  <img align="left" alt="Nur Muhammad's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img align="left" alt="Ranier's Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/rdaavee/">
-  <img align="left" alt="Nur Muhammad's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+  <img align="left" alt="Ranier's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.facebook.com/rdaavee">
-  <img align="left" alt="Ran's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" />
+  <img align="left" alt="Ranier's Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" />
 </a>
 
--------------------------------------------
