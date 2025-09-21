@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 I'm a student dedicated to building responsive and beautiful websites, while actively learning modern technologies for web development.
 
-- 🎯 I’m currently working on [BlueVote](https://github.com/rdaavee/the-blue-light-voting-system) as well as our capstone project, [SDRS](https://github.com/rdaavee/student-document-request-system).
+- 🎯 I'm currently exploring new projects and honing my skills in web development.
 - 🌱 I’m always learning and exploring new technologies to improve my skills.
 
 ### Get in touch
