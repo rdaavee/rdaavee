@@ -8,4 +8,4 @@
 ### Get in touch
 
 - LinkedIn: [raniertan](https://www.linkedin.com/in/raniertan)
-- Email: rdavee0412@gmail.com
+- Email: raniertan0412@gmail.com
