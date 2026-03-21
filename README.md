@@ -1,9 +1,8 @@
 ### 👋 Hey, I'm Ranier Dave!
 
-🧑🏻‍💻 I'm a student dedicated to building responsive and beautiful websites, while actively learning modern technologies for web development.
+🧑🏻‍💻 I'm a 4th-year student building responsive and visually appealing websites, while actively learning modern technologies and AI.
 
-- 🎯 I’m currently an intern at Boom Technologies Inc. while also developing learning projects to share with others soon.
-- 🌱 I’m always learning and exploring new technologies to improve my skills.
+- 🌱 I’m continuously learning and experimenting with new technologies to improve my development skills and understanding of AI.
 
 ### Get in touch
 
