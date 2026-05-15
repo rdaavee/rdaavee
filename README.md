@@ -1,8 +1,6 @@
 ### 👋 Hey, I'm Ranier Dave!
 
-🧑🏻‍💻 I'm a 4th-year student building responsive and visually appealing websites, while actively learning modern technologies and AI.
-
-- 🌱 I’m continuously learning and experimenting with new technologies to improve my development skills and understanding of AI.
+🧑🏻‍💻 I’m a developer dedicated to building responsive and beautiful websites, while actively learning modern web development and AI implementation.
 
 ### Get in touch
 
